@@ -1,6 +1,6 @@
 const FIGHTER = {
   id: "",
-  name: "",
+  name: "", // unique +  case insensitive
   health: 85,
   power: 0,
   defense: 1, // 1 to 10

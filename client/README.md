@@ -1,3 +1,7 @@
+This project is meant to be ran in development or test environment. The url requests done, aim to localhost/3333
+since the backend project in development run in that url. In case you want to use the production deployed backend url,
+set true in useProductionDeployedBackend variable in the src/services/requestHelper.js file.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
